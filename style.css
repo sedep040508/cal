@@ -1,0 +1,15 @@
+.calc{
+	background: bisque;
+	border: 2px dashed;
+	border-radius: 20px;
+	width: 400px;
+	margin: 100px;
+	padding: 20px;
+}
+.res{
+	padding: 20px;
+	font-size: 15px;
+	background: cornsilk;
+	border-radius: 20px;
+	width: 200px;
+}
